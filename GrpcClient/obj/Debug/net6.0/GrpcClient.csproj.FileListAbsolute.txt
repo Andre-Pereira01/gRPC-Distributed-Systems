@@ -1,0 +1,506 @@
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\appsettings.json
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\GrpcServer.deps.json
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\GrpcServer.runtimeconfig.json
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\GrpcServer.exe
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\GrpcClient.exe
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\GrpcClient.deps.json
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\GrpcClient.runtimeconfig.json
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\GrpcClient.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\GrpcClient.pdb
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\GrpcServer.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\bin\Debug\net6.0\GrpcServer.pdb
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.AssemblyReference.cache
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\obj\Debug\net6.0\GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\obj\Debug\net6.0\GrpcClient.AssemblyInfoInputs.cache
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\obj\Debug\net6.0\GrpcClient.AssemblyInfo.cs
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.CoreCompileInputs.cache
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.CopyComplete
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\obj\Debug\net6.0\GrpcClient.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\obj\Debug\net6.0\refint\GrpcClient.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\obj\Debug\net6.0\GrpcClient.pdb
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\obj\Debug\net6.0\GrpcClient.genruntimeconfig.cache
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\tp2_sd-main\GrpcClient\obj\Debug\net6.0\ref\GrpcClient.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\appsettings.json
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.deps.json
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.runtimeconfig.json
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.exe
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.exe
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.deps.json
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.runtimeconfig.json
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.pdb
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.pdb
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.AssemblyReference.cache
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.AssemblyInfoInputs.cache
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.AssemblyInfo.cs
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.CoreCompileInputs.cache
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.CopyComplete
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\refint\GrpcClient.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.pdb
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.genruntimeconfig.cache
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\TrabalhoPrático2\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\ref\GrpcClient.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.deps.json
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.runtimeconfig.json
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\appsettings.json
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.exe
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.exe
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.deps.json
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.runtimeconfig.json
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.pdb
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.pdb
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.AssemblyReference.cache
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.AssemblyInfoInputs.cache
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.AssemblyInfo.cs
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.CoreCompileInputs.cache
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.CopyComplete
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\refint\GrpcClient.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.pdb
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.genruntimeconfig.cache
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\ref\GrpcClient.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Humanizer.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\appsettings.json
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.deps.json
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.runtimeconfig.json
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.exe
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.exe
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.deps.json
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.runtimeconfig.json
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.pdb
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Humanizer.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.pdb
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.AssemblyReference.cache
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.AssemblyInfoInputs.cache
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.AssemblyInfo.cs
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.CoreCompileInputs.cache
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.CopyComplete
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\refint\GrpcClient.dll
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.pdb
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.genruntimeconfig.cache
+C:\Users\kikon\Downloads\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\ref\GrpcClient.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\appsettings.json
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.deps.json
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.runtimeconfig.json
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.exe
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.exe
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.deps.json
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.runtimeconfig.json
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.pdb
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Humanizer.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.pdb
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.AssemblyReference.cache
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.AssemblyInfoInputs.cache
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.AssemblyInfo.cs
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.CoreCompileInputs.cache
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.CopyComplete
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\refint\GrpcClient.dll
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.pdb
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.genruntimeconfig.cache
+C:\Users\André Pereira\Desktop\TrabPrat2_SD1\TrabPrat2_SD1\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\ref\GrpcClient.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\appsettings.json
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.deps.json
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.runtimeconfig.json
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.exe
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.exe
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.deps.json
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.runtimeconfig.json
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcClient.pdb
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Humanizer.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\bin\Debug\net6.0\GrpcServer.pdb
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.AssemblyReference.cache
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.AssemblyInfoInputs.cache
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.AssemblyInfo.cs
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.CoreCompileInputs.cache
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.CopyComplete
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\refint\GrpcClient.dll
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.pdb
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\GrpcClient.genruntimeconfig.cache
+C:\Users\André Pereira\Desktop\FINAL SD\TP2_PL4_GRUPO3\TrabPrat2_SD\TrabPrat2_SD\GrpcClient\obj\Debug\net6.0\ref\GrpcClient.dll

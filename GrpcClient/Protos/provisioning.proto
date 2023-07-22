@@ -1,0 +1,138 @@
+syntax = "proto3";
+
+// Esta opção permite especificar o namespace a ser usado pelo o código
+option csharp_namespace = "GrpcServer.Protos";
+
+
+// Nome do pacote onde todas as mensagens e serviços declarados neste ficheiro estão contidos
+package provisioning;
+
+// Definição do serviço Provisioning que declara várias operações RPC
+service Provisioning{
+
+  // Define uma função RPC chamada Reserve que recebe uma mensagem do tipo ReserveRequest e retorna uma mensagem do tipo ReserveReply.
+  rpc Reserve (ReserveRequest) returns (ReserveReply) {}
+
+  // Similar à função Reserve, mas para a operação Activate.
+  rpc Activate (ActivateRequest) returns (ActivateReply) {}
+
+  // Similar à função Reserve, mas para a operação Deactivate.
+  rpc Deactivate (DeactivateRequest) returns (DeactivateReply) {}
+  rpc Terminate (TerminateRequest) returns (TerminateReply) {}
+  rpc FreeCobertura (FreeCoberturaRequest) returns (FreeCoberturaReply) {}
+  rpc AllInfo (AllInfoRequest) returns (AllInfoReply) {}
+  rpc GetUser (GetUserRequest) returns (GetUserReply){}
+  rpc RegisterUser(RegisterUserRequest) returns (RegisterUserReply) {}
+}
+
+// Definição da mensagem ReserveRequest. 
+message ReserveRequest {
+  string rua = 1;
+  int32 num=2;
+  string userID = 3;
+  string pass = 4;
+}
+
+// Definição da mensagem ReserveReply. 
+message ReserveReply {
+  string num_administrativo=1;
+  string result = 2;
+}
+
+message ActivateRequest {
+  string num_administrativo = 1;
+  string userID = 2;
+  string pass = 3;
+}
+
+message ActivateReply{
+  bool canActivate = 1;
+  int32 expectedActivationTime = 2;
+  string result =3;
+
+}
+
+message DeactivateRequest {
+  string num_administrativo = 1;
+  string userID = 2;
+  string pass = 3;
+}
+
+message DeactivateReply{
+  bool canActivate = 1;
+  int32 expectedActivationTime = 2;
+  string result =3;
+
+}
+
+message TerminateRequest {
+	string num_administrativo = 1;
+	string userID = 2;
+	string pass = 3;
+}
+
+message TerminateReply{
+	bool canActivate = 1;
+	int32 expectedActivationTime = 2;
+	string result =3;
+}
+
+message FreeCoberturaRequest{
+	string userID = 1;
+	string pass = 2;
+}
+
+message FreeCoberturaReply{
+	string result = 1;
+	repeated CoberturaMessage coberturas = 2;
+}
+
+message AllInfoRequest{
+	string userID = 1;
+	string pass = 2;
+}
+
+message AllInfoReply{
+	string result = 1;
+	repeated OperacoesMessage operacoes = 2;
+}
+
+message OperacoesMessage {
+	int32 id = 1;
+	string operator = 2; // Operador envolvido na operação.
+	string operacao = 3; // Tipo de operação realizada.
+}
+
+message CoberturaMessage {
+	string num_admin = 1;   // Número administrativo da cobertura.
+	string rua = 2;			// Rua da cobertura.
+	int32 nume = 3;			// Número da cobertura.
+	string state = 4;		// Estado da cobertura.
+}
+
+message GetUserRequest{
+	string userID = 1;
+	string pass = 2;
+}
+
+message GetUserReply{
+	string userID = 1;
+	string pass = 2;
+	bool isAdmin = 3;
+	string operator = 4;
+}
+
+message RegisterUserRequest{
+	string userID = 1;
+	string pass = 2;
+	bool isAdmin = 3;
+	string operator = 4;
+}
+
+message RegisterUserReply{
+	string userID = 1;
+	string pass = 2;
+	bool isAdmin = 3;
+	string operator = 4;
+	string message = 5;
+}
